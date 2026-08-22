@@ -1,5 +1,5 @@
 # Nutrition Health Application using Generative AI
-🚀 Introducing the Gemini Health App - Your Personalized Nutrition Advisor! 🍎
+
 🚀 Introducing the Gemini Health App - Your Personalized Nutrition Advisor! 🍎
 
 🎥 I'm excited to share a project I've been working on! This video showcases a Health Management App that leverages AI to analyze food items from images and provide detailed nutritional insights, including calorie counts, health assessments, and dietary recommendations.
