@@ -5,25 +5,23 @@ The **Gemini Health App** is a personalized nutrition advisor that leverages Gen
 
 
 ### Technologies Used
-
-* **Python** – Used for backend logic and API integration.
-* **Google Gemini Pro Vision API** – Used for analyzing food images.
-* **Streamlit** – Used to build the interactive web application.
+  - Python – Used for backend logic and API integration.
+  - Google Gemini Pro Vision API – Used for analyzing food images.
+  - Streamlit – Used to build the interactive web application.
 
 
 ### Installation
 
 #### Prerequisites
-
 Before running the application, make sure the following requirements are available:
-
-* Python 3.10 or above
-* Google Gemini API Key
+  - Python 3.10 or above
+  - Google Gemini API Key
 
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/archna13//Nutrition-Health-Application-using-Generative-AI.git
+# Clone the Repository
+git clone https://github.com/archna13/Nutrition-Health-Application-using-Generative-AI.git
 ```
 
 #### Create a Virtual Environment
@@ -97,7 +95,7 @@ Watch the demo to get a better understanding of the application's functionality 
 **Demo Video:** https://1drv.ms/v/c/8b3da0f8c820ba79/ESl616TNTPlNis-4lcnZtvkBZEzwo_0S1vLm6OXFf6U3Iw
 
 
-## Conclusion
 
-This project demonstrates the use of Generative AI for analyzing food images and providing personalized nutrition-related insights. By combining the **Google Gemini Pro Vision API**, **Python**, and **Streamlit**, the application provides users with information about food items, calorie counts, nutritional values, health assessments, and dietary recommendations.
+### Conclusion
+This project demonstrates the use of Generative AI for analyzing food images and providing personalized nutrition-related insights. By combining the Google Gemini Pro Vision API, Python, and Streamlit, the application provides users with information about food items, calorie counts, nutritional values, health assessments, and dietary recommendations.
 
