@@ -1,5 +1,6 @@
 ## Nutrition Health Application using Generative AI
 
+
 ### Introduction
 This application is a personalized nutrition advisor that leverages Generative AI to analyze food items from images and provide detailed nutritional insights. The application can identify food items from images and provide information such as calorie counts, nutritional breakdowns, health assessments, and dietary recommendations. This project showcases how Generative AI can be used in health and nutrition management to provide users with useful insights about their meals.
 
